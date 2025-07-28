@@ -1,5 +1,7 @@
 ## Mobile App: Satinder Blog App
 
+### <img width="1920" height="1080" alt="Screenshot (871)" src="https://github.com/user-attachments/assets/624cf7b9-f00b-439f-8b5d-e6e982aebaf8" />
+
 **Full-Stack 'Satinder Blog App' using React Native and the MERN stack (MongoDB, Express, React Native, Node.js)**
 
 ---
